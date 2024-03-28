@@ -1,0 +1,18 @@
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\bin\Debug\net8.0-windows\ATTIVATORE LICENZE.exe
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\bin\Debug\net8.0-windows\ATTIVATORE LICENZE.deps.json
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\bin\Debug\net8.0-windows\ATTIVATORE LICENZE.runtimeconfig.json
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\bin\Debug\net8.0-windows\ATTIVATORE LICENZE.dll
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\bin\Debug\net8.0-windows\ATTIVATORE LICENZE.pdb
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE_LICENZE.Form1.resources
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.csproj.GenerateResource.cache
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.AssemblyInfoInputs.cache
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.AssemblyInfo.cs
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.csproj.CoreCompileInputs.cache
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.dll
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\refint\ATTIVATORE LICENZE.dll
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.pdb
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE LICENZE.genruntimeconfig.cache
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ref\ATTIVATORE LICENZE.dll
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\bin\Debug\net8.0-windows\ATTIVATORE LICENZE.dll.config
+C:\Users\gab\source\repos\ATTIVATORE LICENZE\ATTIVATORE LICENZE\obj\Debug\net8.0-windows\ATTIVATORE_LICENZE.Properties.Resources.resources
